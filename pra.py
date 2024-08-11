@@ -1,1 +1,4 @@
-#This is just a practice to use github
+import os
+
+a = []
+print(a)
